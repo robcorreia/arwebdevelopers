@@ -1,0 +1,39 @@
+<style>
+@import url('https://fonts.googleapis.com/css?family=Aladin|Gudea:400,700|Maven+Pro:400,700');
+</style>
+
+body{
+    font-family: 
+}
+
+nav .brand-logo{
+    
+}
+
+#intro {
+    height: 600px;
+ background-image: url(../img/bg-01.jpg);
+    background-size: cover;
+}
+
+
+/* MENU MOBILE */
+.sidenav li > a{
+    color: #ffffff;
+}
+
+.sidenav{
+    background-color: #000000;
+}
+
+.grey.darken-4{
+    opacity: .9;
+}
+
+nav a:hover{
+    color: #00CDCD;
+}
+
+ .parallax-container {
+      height: 300px;
+    }
